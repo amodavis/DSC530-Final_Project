@@ -1,4 +1,4 @@
-# Storn Data - An Exploratory Data Analysis Project
+# Storm Data - An Exploratory Data Analysis Project
 Final EDA Project - NWS Storm Data
 
 Final Project - Storm Data EDA.pptx - PowerPoint presentation

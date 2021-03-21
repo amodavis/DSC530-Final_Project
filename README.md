@@ -1,4 +1,9 @@
 # Storm Data - An Exploratory Data Analysis Project
+
+## Description
+Evaluate Storm Events Database from the National Weather Service to assist in determining if storms are becoming more intense. 
+
+## Files
 Final EDA Project - NWS Storm Data
 
 Final Project - Storm Data EDA.pptx - PowerPoint presentation

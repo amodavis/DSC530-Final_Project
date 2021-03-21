@@ -3,18 +3,16 @@
 ## Description
 Evaluate Storm Events Database from the National Weather Service to assist in determining if storms are becoming more intense. 
 
+## Programming Languages
+- Python
+
 ## Files
-Final EDA Project - NWS Storm Data
-
-Final Project - Storm Data EDA.pptx - PowerPoint presentation
-
-Final_Project.ipynb - Jupyter Notebook Python file
-
-Final Project - Storm Data.docx - Paper Summary
-
-thinkplot.py - Supporting Python file from ThinkStats2
-
-thinkstats2.py - Supporting Python file from ThinkStats2
+- Final EDA Project - NWS Storm Data
+- Final Project - Storm Data EDA.pptx - PowerPoint presentation
+- Final_Project.ipynb - Jupyter Notebook Python file
+- Final Project - Storm Data.docx - Paper Summary
+- thinkplot.py - Supporting Python file from ThinkStats2
+- thinkstats2.py - Supporting Python file from ThinkStats2
 
 ## Credits
 This file contains code for use with Think Stats, 2nd Edition

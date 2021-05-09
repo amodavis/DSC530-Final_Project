@@ -7,10 +7,10 @@ Evaluate Storm Events Database from the National Weather Service to assist in de
 - Python
 
 ## Files
-- Final EDA Project - NWS Storm Data
-- Final Project - Storm Data EDA.pptx - PowerPoint presentation
-- Final_Project.ipynb - Jupyter Notebook Python file
-- Final Project - Storm Data.docx - Paper Summary
+- Storm Data EDA-Presentation.pptx - Watch Slideshow for a demonstration of my results
+- Storm Data EDA-Paper.pdf - Read for some background and methodology
+- Storm_Events_EDA.ipynb - Jupyter Notebook Python file of Exploratory Data Analysis
+- Storm Data EDA.pdf - PDF of Exploratory Data Analysis
 - thinkplot.py - Supporting Python file from ThinkStats2
 - thinkstats2.py - Supporting Python file from ThinkStats2
 
